@@ -22,4 +22,5 @@ int main(int argc, char* argv[]) {
 		else if (operator == '/'){
 			z=m/n;
 			printf("%g \n", z);}
+return 0;
 } 
